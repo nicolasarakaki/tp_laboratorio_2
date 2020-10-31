@@ -22,3 +22,25 @@ C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\TestUnitarios\obj\Debug\TestUnitari
 C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
 C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
 C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Archivos.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\ClasesAbstractas.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\ClasesInstanciables.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\ClasesAbstractas.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\ClasesInstanciables.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP3_Laboratorio_II\TestUnitarios\obj\Debug\TestUnitarios.pdb
