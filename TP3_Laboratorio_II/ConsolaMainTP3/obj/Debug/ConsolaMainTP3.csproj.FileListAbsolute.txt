@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\obj\Debug\ConsolaMainTP3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ConsolaMainTP3.exe.config
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ConsolaMainTP3.exe
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ConsolaMainTP3.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ClasesInstanciables.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\obj\Debug\ConsolaMainTP3.csproj.CopyComplete
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\obj\Debug\ConsolaMainTP3.exe
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\obj\Debug\ConsolaMainTP3.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ClasesAbstractas.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ConsolaMainTP3\bin\Debug\ClasesAbstractas.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb

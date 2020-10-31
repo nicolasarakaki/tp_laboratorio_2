@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

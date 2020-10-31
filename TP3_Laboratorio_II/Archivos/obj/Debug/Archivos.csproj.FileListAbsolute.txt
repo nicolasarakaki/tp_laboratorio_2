@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\User\Desktop\Arakaki.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete

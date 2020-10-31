@@ -10,3 +10,15 @@ C:\Users\User\Desktop\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.p
 C:\Users\User\Desktop\TP1_Laboratorio_II\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\User\Desktop\TP1_Laboratorio_II\MiCalculadora\bin\Debug\Entidades.pdb
 C:\Users\User\Desktop\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\bin\Debug\Entidades.dll
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Program Files\MOMO\Archivos\UTN SISTEMAS 2020\PROG Y LABO 2\TP LAB 2 2020 - D\TP1_Laboratorio_II\MiCalculadora\obj\Debug\MiCalculadora.pdb
